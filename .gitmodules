@@ -1,0 +1,6 @@
+[submodule "Chit-Chat-Server"]
+	path = Chit-Chat-Server
+	url = https://github.com/Ujjwal55/Chit-Chat-Server
+[submodule "Chit-Chat-Client"]
+	path = Chit-Chat-Client
+	url = https://github.com/Ujjwal55/Chit-Chat-Client
